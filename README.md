@@ -4,4 +4,4 @@
 >
 >Para rodar esse código, digite:
 ```
-npm install react
+node app.js
